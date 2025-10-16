@@ -1,0 +1,10 @@
+# Pastas de ambiente virtual
+venv/
+.venv/
+
+# Arquivos temporários e de cache
+__pycache__/
+*.pyc
+
+# Arquivos de dados grandes (opcional, se você não quiser o CSV lá)
+# *.csv
