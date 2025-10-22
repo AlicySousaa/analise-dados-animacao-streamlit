@@ -10,8 +10,8 @@ O código analisa as relações entre popularidade, custo de produção e retorn
 
 KPI - Pergunta - Exemplo de Conclusão 
 KPI 1: Nicho de Qualidade - Quais gêneros têm alta aprovação, mas baixa oferta? - Recomendação: Foco em Comédia/Família e Drama de Animação. 
-KPI 2: Complexidade de Produção - Quais gêneros são os mais caros e longos de produzir? Conclusão: Ação, Fantasia, Aventura e Comédia/Família exigem alto investimento (~$150M). |
-KPI 3: Retorno de Qualidade - Quais filmes entregam o melhor lucro/custo balanceado pela nota? Conclusão: O sucesso está na eficiência (Baixo Custo + Alta Nota), como o filme "The Blind Man Who Did Not Want to See Titanic". |
+KPI 2: Complexidade de Produção - Quais gêneros são os mais caros e longos de produzir? Conclusão: Ação, Fantasia, Aventura e Comédia/Família exigem alto investimento (~$150M). 
+KPI 3: Retorno de Qualidade - Quais filmes entregam o melhor lucro/custo balanceado pela nota? Conclusão: O sucesso está na eficiência (Baixo Custo + Alta Nota), como o filme "The Blind Man Who Did Not Want to See Titanic". 
 
  Como Executar o Dashboard Localmente
 
